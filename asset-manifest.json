@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/conecta-comunidade/static/css/main.6a9c41f0.css",
+    "main.js": "/conecta-comunidade/static/js/main.6b4dd241.js",
+    "index.html": "/conecta-comunidade/index.html",
+    "main.6a9c41f0.css.map": "/conecta-comunidade/static/css/main.6a9c41f0.css.map",
+    "main.6b4dd241.js.map": "/conecta-comunidade/static/js/main.6b4dd241.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a9c41f0.css",
+    "static/js/main.6b4dd241.js"
+  ]
+}
