@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/conecta-comunidade/static/css/main.6a9c41f0.css",
-    "main.js": "/conecta-comunidade/static/js/main.6b4dd241.js",
-    "index.html": "/conecta-comunidade/index.html",
-    "main.6a9c41f0.css.map": "/conecta-comunidade/static/css/main.6a9c41f0.css.map",
-    "main.6b4dd241.js.map": "/conecta-comunidade/static/js/main.6b4dd241.js.map"
+    "main.css": "/Conecta-Comunidade/static/css/main.6a9c41f0.css",
+    "main.js": "/Conecta-Comunidade/static/js/main.6b4dd241.js",
+    "index.html": "/Conecta-Comunidade/index.html",
+    "main.6a9c41f0.css.map": "/Conecta-Comunidade/static/css/main.6a9c41f0.css.map",
+    "main.6b4dd241.js.map": "/Conecta-Comunidade/static/js/main.6b4dd241.js.map"
   },
   "entrypoints": [
     "static/css/main.6a9c41f0.css",
